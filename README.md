@@ -12,4 +12,4 @@
 <p>Pequeña aplicación hecha para practicar todo el tema del testing con PHP y Laravel que lo tenía un poco olvidado</p>
 <p style="font-weight:bold">#PHPUNIT #TDD</p>
 
-<p><img src="https://github.com/hnevado/invoiceapp/blob/master/public/img/shoppinglist.png"></p>
+<p><img src="https://github.com/hnevado/shoppinglist/blob/master/public/img/shoppinglist.png"></p>
